@@ -9,7 +9,7 @@ Passionate about building scalable data platforms, real-time streaming systems, 
 * 💬 Ask me about Apache Spark, Kafka, Java, Python, SQL, Airflow, Elasticsearch, ETL Pipelines, and Big Data Architectures
 * 🚀 Interested in Generative AI, Vector Search, Real-Time Analytics, and Cloud-Native Data Platforms
 * 📫 LinkedIn: [www.linkedin.com/in/shubhamchourasia](http://www.linkedin.com/in/shubhamchourasia)
-* 📧 Reach me at: [shubhamchourasia@gmail.com](mailto:shubhamchourasia@gmail.com)
+* 📧 Reach me at: [shubham070496@gmail.com](mailto:shubham070496@gmail.com)
 
 ---
 
