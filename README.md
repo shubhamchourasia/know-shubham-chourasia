@@ -37,18 +37,6 @@ Generative AI • RAG Applications • Vector Search • Multilingual AI Systems
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchourasia&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamchourasia&show_icons=true&count_private=true&theme=dark" />
-</p>
-
----
-
 ## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/shubhamchourasia/
